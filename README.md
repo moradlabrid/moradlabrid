@@ -27,7 +27,7 @@ Hi there 👋 I'm Morad, a passionate lead developer specializing in web and mob
 
 - [Facebook](https://www.facebook.com/moradii.84)
 - [Instagram](https://www.instagram.com/moradii.84)
-- [LinkedIn](https://www.linkedin.com/in/moradii.84)
+- [LinkedIn](https://www.linkedin.com/in/moradii84)
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on exciting projects!
 
