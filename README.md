@@ -1,34 +1,33 @@
 <h1 align="center">Morad Labrid - Lead Developer (Web & Mobile)</h1>
 
 <p align="center">
-  <img src="images/banner.png" alt="Profile Picture">
+  <img src="images/banner.png" alt="Profile Banner">
 </p>
 
-Hi there 👋 I'm Morad, a passionate lead developer specializing in web and mobile applications. Currently, I work at "L'Atelier de la Plateforme" where I lead and contribute to various exciting projects.
+Hi there 👋 I'm Morad, a passionate Lead Developer specializing in web and mobile applications.  
+Currently working at **L'Atelier de La Plateforme** where I lead and contribute to various exciting projects.
 
-- 👨‍💻 Come and explore my repositories **[Here](https://github.com/moradlabrid?tab=repositories)**
-- 💬 Ask me about **html, css, javascript, php, laravel, strapi, vue.js, react.js**
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/moradii.84)**
-- ⚡ Passionate and Full of Energy and Ideas
+- 👨‍💻 Explore my repositories **[here](https://github.com/moradlabrid?tab=repositories)**
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, React.js, Next.js, NestJS, Vue.js, Nuxt.js**
+- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/moradii84)**
+- ⚡ Always learning, building, and innovating.
 
-## My Skills
+## Tech Stack
 
-- Web Technologies: HTML5, CSS3, JavaScript, PHP
-- Frameworks: Laravel, Symfony, Strapi, Node.js, Express
-- Frontend: Vue.js, Nuxt.js, React, React Native
-- Databases: MySQL, MongoDB
-- Design Frameworks: Tailwind CSS, Bootstrap, Materialize, Chart.js
-- Version Control: Git
-- Deployment: Heroku
-- Operating Systems: Linux
-- Design Tools: Figma, Sketch, Photoshop, Illustrator, Adobe XD
+- **Frontend**: React.js, Next.js, Vue.js, Nuxt.js
+- **Backend**: Node.js, NestJS, Strapi, Express
+- **Mobile**: React Native, Flutter
+- **Databases**: MySQL, MongoDB
+- **UI Frameworks**: Tailwind CSS, Bootstrap
+- **Design Tools**: Figma, Adobe XD
+- **Others**: Git, Linux
 
-## Connect with Me
+## Let's Connect
 
-- [Facebook](https://www.facebook.com/moradii.84)
-- [Instagram](https://www.instagram.com/moradii.84)
 - [LinkedIn](https://www.linkedin.com/in/moradii84)
+- [Instagram](https://www.instagram.com/moradii.84)
+- [Facebook](https://www.facebook.com/moradii.84)
 
-Feel free to reach out to me if you have any questions or if you'd like to collaborate on exciting projects!
+---
 
-Happy coding! 😊
+*Always pushing the limits of what's possible.* 🚀
