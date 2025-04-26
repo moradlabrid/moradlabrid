@@ -37,8 +37,6 @@ Currently leading development at **L'Atelier de La Plateforme** in Marseille, I 
 
 - [LinkedIn](https://www.linkedin.com/in/moradii84)
 - [GitHub](https://github.com/moradlabrid)
-- [Instagram](https://www.instagram.com/moradii.84)
-- [Facebook](https://www.facebook.com/moradii.84)
 
 ---
 
