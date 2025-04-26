@@ -4,8 +4,8 @@
   <img src="images/banner.png" alt="Profile Banner">
 </p>
 
-Hi there 👋 I'm Morad, a passionate Lead Developer specializing in web and mobile applications.  
-Currently leading development at **L'Atelier de La Plateforme** in Marseille, I design and deliver high-performance solutions while mentoring developer teams.
+Hi there 👋 I'm Morad, a passionate Lead Developer specializing in web and mobile applications.
+Currently lead dev at L'Atelier de La Plateforme in Marseille, I design and deliver high-performance solutions while mentoring developer teams.
 
 - 👨‍💻 Explore my repositories **[here](https://github.com/moradlabrid?tab=repositories)**
 - 💬 Ask me about **React.js, Vue.js, Next.js, Nuxt.js, Node.js, NestJS, Strapi, TypeScript**
