@@ -9,7 +9,7 @@
 </p>
 
 Salut 👋 Je suis Morad, un développeur passionné par le "shipping" (la mise en production).
-Fort de 2,5 ans d'expérience intensive à **L'Atelier de La Plateforme** (Marseille), je conçois et déploie des architectures web complexes (SaaS, Fintech, GovTech) tout en garantissant la qualité du code.
+Fort de 3 ans d'expérience intensive à **L'Atelier de La Plateforme** (Marseille), je conçois et déploie des architectures web complexes (SaaS, Fintech, GovTech) tout en garantissant la qualité du code.
 
 - 🔭 Je travaille actuellement sur des architectures **SaaS** et **Fintech** scalables.
 - 👨‍💻 Explorez mes projets sur mon **[Portfolio GitHub](https://github.com/moradlabrid?tab=repositories)**
@@ -23,10 +23,10 @@ Fort de 2,5 ans d'expérience intensive à **L'Atelier de La Plateforme** (Marse
 
 Je construis des produits complets avec l'écosystème JavaScript moderne :
 
-- **Frontend** : React 19, Next.js 14, Vue.js, Tailwind CSS, Shadcn/UI, TanStack Query
+- **Frontend** : React, Next.js, Vue.js, Tailwind CSS, Shadcn/UI, TanStack Query
 - **Backend** : Node.js, NestJS, Hono (High Perf API), Strapi (Headless CMS)
-- **Data & ORM** : PostgreSQL, MySQL, Prisma, TypeORM
-- **DevOps & Cloud** : Docker, AWS S3, Vercel, CI/CD (GitHub Actions)
+- **Data & ORM** : PostgreSQL, MySQL, Prisma, TypeORM, Supabase
+- **DevOps & Cloud** : Hetzner, CI/CD (GitHub Actions)
 - **Business & Sécurité** : Stripe (Paiements), Clerk/NextAuth, FranceConnect, Zod
 
 ---
