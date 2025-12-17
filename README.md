@@ -1,43 +1,63 @@
-<h1 align="center">Morad Labrid - Lead Developer (Web & Mobile)</h1>
+<h1 align="center">Morad Labrid - Développeur Full Stack Confirmé & Lead Tech</h1>
 
 <p align="center">
-  <img src="images/banner.png" alt="Profile Banner">
+  <img src="images/banner.png" alt="Bannière Profil">
 </p>
 
-Hi there 👋 I'm Morad, a passionate Lead Developer specializing in web and mobile applications.
-Currently lead dev at L'Atelier de La Plateforme in Marseille, I design and deliver high-performance solutions while mentoring developer teams.
+<p align="center">
+  <b>React.js • Next.js • NestJS • TypeScript • Node.js</b>
+</p>
 
-- 👨‍💻 Explore my repositories **[here](https://github.com/moradlabrid?tab=repositories)**
-- 💬 Ask me about **React.js, Vue.js, Next.js, Nuxt.js, Node.js, NestJS, Strapi, TypeScript**
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/moradii84)**
-- ⚡ Always exploring new technologies and best practices.
+Salut 👋 Je suis Morad, un développeur passionné par le "shipping" (la mise en production).
+Fort de 2,5 ans d'expérience intensive à **L'Atelier de La Plateforme** (Marseille), je conçois et déploie des architectures web complexes (SaaS, Fintech, GovTech) tout en garantissant la qualité du code.
 
-## Tech Stack
+- 🔭 Je travaille actuellement sur des architectures **SaaS** et **Fintech** scalables.
+- 👨‍💻 Explorez mes projets sur mon **[Portfolio GitHub](https://github.com/moradlabrid?tab=repositories)**
+- 💬 Posez-moi des questions sur **Next.js (App Router), NestJS, Hono, l'Architecture Hexagonale et Stripe**.
+- 📫 Connectons-nous sur **[LinkedIn](https://www.linkedin.com/in/moradii84)**
+- ⚡ Focus actuel : Performance web (Core Web Vitals) et Sécurité applicative.
 
-- **Frontend**: React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS
-- **Backend**: Node.js, NestJS, Strapi, TypeORM
-- **Languages**: JavaScript, TypeScript
-- **Tools & Services**: Git, Stripe, Clerk, Dify
-- **Project Management**: Agile methodologies, team leadership, JavaScript best practices
-- **Databases**: MySQL, MongoDB
+---
 
-## Languages
+## 🛠 Stack Technique
 
-- 🇫🇷 French: Fluent
-- 🇬🇧 English: Intermediate
-- 🇲🇦 Arabic: Fluent
+Je construis des produits complets avec l'écosystème JavaScript moderne :
 
-## Interests
+- **Frontend** : React 19, Next.js 14, Vue.js, Tailwind CSS, Shadcn/UI, TanStack Query
+- **Backend** : Node.js, NestJS, Hono (High Perf API), Strapi (Headless CMS)
+- **Data & ORM** : PostgreSQL, MySQL, Prisma, TypeORM
+- **DevOps & Cloud** : Docker, AWS S3, Vercel, CI/CD (GitHub Actions)
+- **Business & Sécurité** : Stripe (Paiements), Clerk/NextAuth, FranceConnect, Zod
 
-- 🎧 Podcasts
-- 💻 Technology
-- 🌐 Social Media
+---
 
-## Let's Connect
+## 🚀 Projets Phares (Production)
+
+J'ai piloté le développement technique de plusieurs plateformes d'envergure :
+
+- 🏛 **SRIAS Connect (GovTech)** : Portail de services sociaux pour la fonction publique (PACA).
+  - *Stack : Next.js, NestJS, AWS S3, FranceConnect.*
+- 💸 **Vizeo (Fintech)** : Digitalisation du processus de crédit professionnel (B2B).
+  - *Stack : React, Hono, Prisma, Workflows métiers.*
+- 🤖 **Story Tellers (SaaS IA)** : Générateur de vidéos/images par IA avec système d'abonnement.
+  - *Stack : Next.js, Stripe, API OpenAI, Clerk.*
+- 📰 **1500 (Média)** : Plateforme éditoriale "Les mots restent".
+  - *Stack : Next.js, Strapi.*
+
+---
+
+## 🌍 Langues
+
+- 🇫🇷 Français : Courant (Langue maternelle)
+- 🇬🇧 Anglais : Technique / Intermédiaire
+
+## 🤝 Restons en contact
 
 - [LinkedIn](https://www.linkedin.com/in/moradii84)
 - [GitHub](https://github.com/moradlabrid)
 
 ---
 
-*Building efficient and modern applications, one line of code at a time.* 🚀
+<p align="center">
+  <i>Construire des applications performantes et modernes, une ligne de code à la fois. 🚀</i>
+</p>
